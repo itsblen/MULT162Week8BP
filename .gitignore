@@ -94,7 +94,7 @@ Content/StarterContent/*
 
 #Third Person
 Content/ThirdPerson/
-Content/_ExternalActors_/*
-Content/_ExternalObjects_/*
+Content/__ExternalActors__/*
+Content/__ExternalObjects__/*
 Content/LevelPrototyping/*
 Content/Characters/*
